@@ -1,8 +1,8 @@
 ## Tervehdys!
 
-Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Suosittelen tutustumaan tuoreimpiin projekteihin keväästä 2023 alkaen!  
+Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Suosittelen tutustumaan tuoreimpiin projekteihin keväästä 2023 alkaen  
 
-Hello! Here you can find projects and assignments created during my studies. Please, check the projects starting from 2023, they are the most complete ones!
+Hello! Here you can find projects and assignments created during my studies. Please, check the projects starting from 2023, they are the most complete ones
 
 Tuoreimmasta vanhimpaan:  
 Koiratarha2.0 - Client, Api ja Auth, syksy 2023  
