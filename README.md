@@ -1,6 +1,6 @@
 ## Tervehdys!
 
-Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä
+Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Suosittelen tutustumaan tuoreimpiin projekteihin keväästä 2023 alkaen!
 
 Tuoreimmasta vanhimpaan:  
 Koiratarha2.0 - Client, Api ja Auth, syksy 2023  
