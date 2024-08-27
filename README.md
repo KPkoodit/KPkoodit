@@ -5,7 +5,7 @@ Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Su
 Hello! Here you can find projects and assignments created during my studies. Most of the projects have been created by a group of students. Please, check the projects starting from 2023, they are the most complete ones
 
 Tuoreimmasta vanhimpaan:  
-**Koneoppiminen**, kevät/spring 2024
+**Koneoppiminen**, kevät/spring 2024  
 **Koiratarha2.0 - Client, Api ja Auth**, syksy/autumn 2023  
 **Kolikkosieppari**, kesä/summer 2023  
 **Budjettisovellus**, kevät/spring 2023  
