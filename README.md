@@ -1,8 +1,8 @@
-## Tervehdys!
+## Tervehdys! Hello!
 
-Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Suurin osa projekteista on tehty ryhmätyönä. Suosittelen tutustumaan tuoreimpiin projekteihin keväästä 2023 alkaen  
+Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Repot on siirretty tähän profiiliin, jotta olisi helpompi tarkastella minkälaisiin projekteihin olen opintojen aikana osallistunut. Suurin osa projekteista on tehty ryhmätyönä, jonka jälkeen olen jatkanut niiden kehittämistä omalla ajallani. Suosittelen tutustumaan tuoreimpiin repoihin keväästä 2023 alkaen
 
-Hello! Here you can find projects and assignments created during my studies. Most of the projects have been created by a group of students. Please, check the projects starting from 2023, they are the most complete ones
+Here you can find projects and assignments created during my studies. The repositories were moved to this profile to make it easier to review what kind of projects I have participated in during my studies. Most of the projects have been created by a group of students and I have continued to developing them in my free time. Please, check the projects starting from 2023, they are the most complete ones
 
 Tuoreimmasta vanhimpaan:  
 **Koneoppiminen**, kevät/spring 2024  
