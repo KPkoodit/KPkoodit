@@ -1,18 +1,20 @@
-## Tervehdys! Hello!
+## Tervehdys!
 
-Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Repot on siirretty tähän profiiliin, jotta olisi helpompi tarkastella minkälaisiin projekteihin olen opintojen aikana osallistunut. Suurin osa projekteista on tehty ryhmätyönä, jonka jälkeen olen jatkanut niiden kehittämistä omalla ajallani. Suosittelen tutustumaan tuoreimpiin repoihin keväästä 2023 alkaen
+Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Olen valinnut tähän repositioon muutaman projektin, jotka näyttävät minkälaisia teknologioita olen päässyt käyttämään. Suurin osa projekteista on tehty ryhmätyönä, jonka jälkeen olen jatkanut niiden kehittämistä omalla ajallani.
 
-Here you can find projects and assignments created during my studies. The repositories were moved to this profile to make it easier to review what kind of projects I have participated in during my studies. Most of the projects have been created by a group of students and I have continued to developing them in my free time. Please, check the projects starting from 2023, they are the most complete ones
+## Hello!
 
-Tuoreimmasta vanhimpaan:  
+Here you can find projects and assignments created during my studies.I have selected a few projects for this repository to show the types of technologies I have had the opportunity to work with. Most of the projects have been created by a group of students and I have continued to developing them in my free time.
+  
 **Koneoppiminen**, kevät/spring 2024  
+  
 **Koiratarha2.0 - Client, Api ja Auth**, syksy/autumn 2023  
+  
 **Kolikkosieppari**, kesä/summer 2023  
-**Budjettisovellus**, kevät/spring 2023  
-**Suunnittelumallit**, kevät/spring 2023  
-**KiviPaperiSakset**, kevät/spring 2023  
-**Simulaattori**, syksy/autumn 2022  
-**KoiratarhaOriginal**, kevät/spring 2022  
+  
+**Budjettisovellus**, kevät/spring 2023
+  
+**Suunnittelumallit**, kevät/spring 2023
 
 <!--
 **KPkoodit/KPkoodit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
