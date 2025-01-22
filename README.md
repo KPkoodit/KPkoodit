@@ -6,7 +6,7 @@ Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Ol
 
 Here you can find projects and assignments created during my studies. I have selected a few projects for this repository to show the types of technologies I have had the opportunity to work with. Most of the projects have been created by a group of students during a course and I have continued to developing them in my free time.
 
-## Projects
+## Projektit
 
 **[Koneoppiminen](https://github.com/KPkoodit/Koneoppiminen)**, kevät/spring 2024  
   
