@@ -8,15 +8,15 @@ Here you can find projects and assignments created during my studies. I have sel
 
 ## Projects
 
-[**Koneoppiminen**](https://github.com/KPkoodit/Koneoppiminen), kevät/spring 2024  
+**[Koneoppiminen](https://github.com/KPkoodit/Koneoppiminen)**, kevät/spring 2024  
   
-**Koiratarha2.0 - [Client](https://github.com/KPkoodit/Koiratarha2.0-Client), Api ja Auth**, syksy/autumn 2023  
+**Koiratarha2.0 - [Client](https://github.com/KPkoodit/Koiratarha2.0-Client), [Api](https://github.com/KPkoodit/Koiratarha2.0-API) ja [Auth](https://github.com/KPkoodit/Koiratarha2.0-Auth)**, syksy/autumn 2023  
   
-**Kolikkosieppari**, kesä/summer 2023  
+**[Kolikkosieppari](https://github.com/KPkoodit/KolikkoSieppari)**, kesä/summer 2023  
   
-**Budjettisovellus**, kevät/spring 2023
+**[Budjettisovellus](https://github.com/KPkoodit/Budjettisovellus)**, kevät/spring 2023
   
-**Suunnittelumallit**, kevät/spring 2023
+**[Suunnittelumallit](https://github.com/KPkoodit/Suunnittelumallit)**, kevät/spring 2023
 
 <!--
 **KPkoodit/KPkoodit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
