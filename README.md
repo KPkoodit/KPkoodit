@@ -8,7 +8,7 @@ Here you can find projects and assignments created during my studies. I have sel
 
 ## Projects
 
-**Koneoppiminen**, kevät/spring 2024  
+[**Koneoppiminen**](https://github.com/KPkoodit/Koneoppiminen), kevät/spring 2024  
   
 **Koiratarha2.0 - Client, Api ja Auth**, syksy/autumn 2023  
   
