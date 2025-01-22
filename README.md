@@ -1,10 +1,10 @@
 ## Tervehdys!
 
-Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Olen valinnut tähän repositioon muutaman projektin, jotka näyttävät minkälaisia teknologioita olen päässyt käyttämään. Suurin osa projekteista on tehty ryhmätyönä, jonka jälkeen olen jatkanut niiden kehittämistä omalla ajallani.
+Täältä löytyy opintojeni aikana tehtyjä projekteja ja koodaustehtäviä. Olen valinnut tähän repositioon muutaman projektin, jotka näyttävät minkälaisia teknologioita olen päässyt käyttämään. Suurin osa projekteista on tehty ryhmätyönä kurssilla, jonka jälkeen olen jatkanut niiden kehittämistä omalla ajallani.
 
 ## Hello!
 
-Here you can find projects and assignments created during my studies. I have selected a few projects for this repository to show the types of technologies I have had the opportunity to work with. Most of the projects have been created by a group of students and I have continued to developing them in my free time.
+Here you can find projects and assignments created during my studies. I have selected a few projects for this repository to show the types of technologies I have had the opportunity to work with. Most of the projects have been created by a group of students during a course and I have continued to developing them in my free time.
 
 ## Projects
 
