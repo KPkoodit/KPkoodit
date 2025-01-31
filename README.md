@@ -19,7 +19,7 @@ Here you can find projects and assignments created during my studies. I have sel
 **[Suunnittelumallit](https://github.com/KPkoodit/Suunnittelumallit)**, kevät/spring 2023
 
 ## Oppimisen reflektio
-[Täältä](https://github.com/KPkoodit/OmaOppiminen) löytyy kokemuksiani projektien varrelta
+[Täältä](https://github.com/KPkoodit/OmaOppiminen) löytyy kokemuksiani projektien varrelta.
 
 <!--
 **KPkoodit/KPkoodit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
