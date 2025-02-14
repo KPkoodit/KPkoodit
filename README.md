@@ -15,8 +15,6 @@ Here you can find projects and assignments created during my studies. I have sel
 **[Kolikkosieppari](https://github.com/KPkoodit/KolikkoSieppari)**, kesä/summer 2023  
   
 **[Budjettisovellus](https://github.com/KPkoodit/Budjettisovellus)**, kevät/spring 2023
-  
-**[Suunnittelumallit](https://github.com/KPkoodit/Suunnittelumallit)**, kevät/spring 2023
 
 ## Oppimisen reflektio
 [Täältä](https://github.com/KPkoodit/OmaOppiminen) löytyy kokemuksiani projektien varrelta.
